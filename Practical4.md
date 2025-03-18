@@ -16,7 +16,7 @@
 
 4. Change the default umask for the operator1 user:
 -> (a)Open the user’s .bashrc or .profile file:
-      sudo nano /home/operator1/.bashrc
+      sudo nano /home/ubuntu/.bashrc
    
    (b)Add the following line to set the umask:
       umask 0074
@@ -26,7 +26,7 @@
 
 
 5. Confirm the umask:
--> su - operator1
+-> su - ubuntu
    umask
    ![Screenshot 2025-03-18 200729](https://github.com/user-attachments/assets/869fe3a1-827d-42ba-a72d-bf757df62171)
 
