@@ -43,7 +43,7 @@
 
    (e)Set permissions to rwxr-xr-- using octal mode:
       chmod 754 file.txt
-   ![Screenshot 2025-03-18 225000](https://github.com/user-attachments/assets/c14e6e59-5ef7-4ba7-8dd8-1a58789cc465)
+   ![ss](https://github.com/user-attachments/assets/bcc7a467-5497-46bf-b6bb-112092240921)
 
    (f)Recursive Change of Permissions:
       chmod -R 755 /path/to/directory
